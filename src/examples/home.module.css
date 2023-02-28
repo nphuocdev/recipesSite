@@ -1,0 +1,11 @@
+.page{
+    color: blue;
+
+}
+.page-1{
+    color: red;
+}
+.text{
+    text-transform: capitalize;
+    color: yellow;
+}
